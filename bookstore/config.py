@@ -3,7 +3,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
-MODEL = "gemini-flash-latest"
+MODEL = "gemini-3.5-flash-lite"
 TOP_DAYS = 5
 MAX_ROWS = 50
 EXAMPLE_ROWS = 3
